@@ -1,0 +1,5 @@
+question,ground_truth,answer
+"What was the actual value of the customer satisfaction in 2022?",0.75,"The actual value of the customer satisfaction metric in 2022 was 0.83." 
+"What was the target value for the customer satisfaction metric in 2022?",0.7,"The target value for customer satisfaction metric in 2022 was 0.70."
+"What is Firm GmbH's number of customer accounts as of 31 December 2022?",97945,"97,945"
+"What are Firm GmbH's values?","\u2022 Integrity \u2022 Transparency \u2022 Customer-Centricity \u2022 Sustainability \u2022 Social Responsibility\n\n","Firm GmbH's values are Customer-Centricity, Integrity, Transparency, Sustainability, Social Responsibility"
