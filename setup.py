@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='eval_to_go',
-    version='0.1.0',
+    version='0.1.1',
     author='Asghar Ghorbani',
     author_email='ghorbani59@gmail.com',
     packages=find_packages(),
